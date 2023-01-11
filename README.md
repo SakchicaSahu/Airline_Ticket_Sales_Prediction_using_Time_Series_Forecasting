@@ -1,5 +1,5 @@
 # Airline_Ticket_Sales_Prediction_using_Time_Series_Forecasting
-The objective of this project is to implement and explore different Time series Forecasting techniques like ARIMA, SARIMA and Facebook's PROPHET on a relatively simple and clean dataset.
+The objective of this project is to implement and explore different Time series Forecasting techniques like **ARIMA, SARIMA and Facebook's PROPHET** on a relatively simple and clean dataset.
 
 A Time Series is defined as a series of data points recorded at different time intervals. The time order can be daily, monthly, or even yearly.
 
@@ -42,7 +42,7 @@ The dataset used in this project is International airline passengers dataset. It
 ### Conclusion-
 
 1. Analyzed the given data to check for stationarity & decomposed it to get level, trend, seasonality, and residue
-2. Performed ADF test for stationarity & used ARIMA, SARIMA, Prophet and XGBoosT to predict future sales
+2. Performed ADF test for stationarity & used ARIMA, SARIMA and Prophet to predict future sales
 3. Achieved best accuracy of 19.23% MAPE in SARIMA & 14.27% MAPE by implementing the Prophet model
 
 **Submitted by-**  
